@@ -6,7 +6,8 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+        The statging area is like a preview of our next commit. So we can check it
+    and decide that should we keep it or we can make some adjustments.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
