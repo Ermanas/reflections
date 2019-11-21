@@ -1,2 +1,14 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+    We can clone any repository from the github and we can modify it, we can add
+    new commits on it. If we want to make our own version of a project, we can
+    for the repo to our repository on our profile on github. Then we can do
+    whatever we want without effecting the original repository. Also people can
+    see the originial version on its owner's profile.
+    We use branches when we want do a significant changes. If we want to add a
+    new feature to our project or if we want to do experimens on our code, so we
+    can create a new branch and if we can succeed, we'll be able to merge it
+    to the master branch.
